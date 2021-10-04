@@ -2,6 +2,26 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">);
 
+:root{
+    --primary-color: red;
+}
+
+
+
+
 body{
     font-family: 'Open Sans', sans-serif;
+}
+
+.link-primary{
+    background-color: var
+    (--primary-color)
+    border : 1px solid var
+    (--primary-color);
+}
+.link-secondary{
+    background-color: var
+    (--primary-color)
+    border : 1px solid var
+    (--primary-color);
 }
