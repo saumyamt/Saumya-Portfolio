@@ -50,5 +50,5 @@ body{
 .hero .hero-image{
     max-width: 350px
     display: block;
-    text-align: center;
+    margin: auto;
 }
