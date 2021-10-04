@@ -25,3 +25,8 @@ body{
     border : 1px solid var
     (--primary-color);
 }
+
+.list-non-bullet{
+    list-style: none;
+
+}
