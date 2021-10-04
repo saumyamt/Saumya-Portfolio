@@ -43,7 +43,7 @@ body{
 }
 
 .hero .hero-image{
-    max-width: 350px
+    max-width: 480px
     display: block;
     margin: auto;
 }
