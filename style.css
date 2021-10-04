@@ -57,3 +57,8 @@ body{
     text-align: center;
  
 }
+
+.footer{
+    background-color: purple;
+    padding: 2rem;
+}
