@@ -6,7 +6,10 @@
     --primary-color: red;
 }
 
-
+h1{
+    background-color: hotpink;
+    padding: 5rem 5rem;
+}
 
 
 body{
