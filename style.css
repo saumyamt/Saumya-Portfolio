@@ -30,3 +30,13 @@ body{
     list-style: none;
 
 }
+
+.navigation{
+    background-color: var
+    (--primary-color)
+    color: blue;
+}
+
+.navigation .link{
+    color: blueviolet;
+}
