@@ -1,7 +1,7 @@
-@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
+/**@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">);
-
+/**
 :root{
     --primary-color: red;
 }
@@ -65,4 +65,29 @@ body{
 .footer{
     background-color: grey;
     padding: 2rem;
+}
+**/
+element.style {
+}
+.footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+footer {
+    display: block;
+}
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0px auto;
+    max-width: 85%;
+    width: 100%;
+}
+:root {
+    --primary-color: #7c3aed;
+    --off-white: #f3f4f6;
+    --dark-gray: #6b7280;
 }
