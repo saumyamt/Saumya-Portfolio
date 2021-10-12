@@ -18,11 +18,11 @@ body{
 }
 
 .link-primary{
-    background-color: var(--primary-color)
+    background-color: var(--primary-color);
     border: 1px solid var(--primary-color);
 }
 .link-secondary{
-    background-color: var(--primary-color)
+    background-color: var(--primary-color);
     border : 1px solid var(--primary-color);
 }
 
@@ -32,7 +32,7 @@ body{
 }
 
 .navigation{
-    background-color: var(--primary-color)
+    background-color: var(--primary-color);
     color: blue;
     padding: 1rem 2rem;
     font-weight: bold;
@@ -47,7 +47,7 @@ body{
 }
 
 .hero .hero-image{
-    max-width: 480px
+    max-width: 480px;
     display: block;
     margin: auto;
 }
