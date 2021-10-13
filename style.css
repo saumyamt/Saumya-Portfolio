@@ -96,6 +96,29 @@ html {
 nav {
     display: block;
 }
+.nav-pills {
+    display: flex;
+    justify-content: center;
+}
+.nav-header {
+    font-weight: bolder;
+    font-size: x-large;
+    margin-bottom: 2rem;
+}
+.nav-link {
+    background-color: var(--primary-color);
+    color: var(--span-color);
+    border: 1px solid var(--span-color);
+    padding: 0.5rem 0.5rem;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+}
+
+.link-active {
+    font-weight: bolder;
+    font-size: large;
+}
 body {
     font-family: "Montserrat", sans-serif;
     margin: 0px auto;
