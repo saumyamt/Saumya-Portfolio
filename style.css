@@ -79,7 +79,7 @@ html {
 }
 .navigation {
     background-color: var(--primary-color);
-    color: purple;
+    color:peru;
     padding: 5rem;
     font-size: large;
     border-bottom-left-radius: 1rem;
