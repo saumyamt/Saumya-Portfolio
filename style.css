@@ -96,11 +96,7 @@ body {
     max-width: 85%;
     width: 100%;
 }
-:root {
-    --primary-color: #7c3aed;
-    --off-white: #f3f4f6;
-    --dark-gray: #6b7280;
-}
+
 
 .hero {
     padding: 5rem;
@@ -112,7 +108,7 @@ header {
 }
 
 .hero .hero-img {
-    max-width: 80%;
+    max-width: 50%;
     width: 550px;
     display: block;
     margin: auto;
@@ -123,7 +119,7 @@ header {
     padding-top: 5rem;
     color: var(--dark-gray);
 }
-user agent stylesheet
+
 h1 {
     display: block;
     font-size: 2em;
@@ -143,7 +139,7 @@ h1 {
     border-radius: 1rem;
     text-align: center;
 }
-user agent stylesheet
+
 section {
     display: block;
 }
@@ -157,7 +153,7 @@ section {
     border-top-right-radius: 1rem;
 }
 
-user agent stylesheet
+
 footer {
     display: block;
 }
